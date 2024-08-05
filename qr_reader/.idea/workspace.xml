@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f18d9c-ee23-45b4-87d4-5904bd2e1fd4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0002_delete_customer_rename_credit_companies_tax_and_more.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0002_delete_customer_rename_credit_companies_tax_and_more.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0003_alter_companies_company_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0003_alter_companies_company_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0004_money.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0004_money.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0005_rename_money_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/migrations/0005_rename_money_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/companies/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../AccountingSystemProject/myaccount/myaccount/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicChooseProject/dynamic_choice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DynamicChooseProject/dynamic_choice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DynamicChooseProject/dynamic_choice/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../DynamicChooseProject/dynamic_choice/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PollsProject/mysite/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PollsProject/mysite/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PollsProject/mysite/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PollsProject/mysite/.idea/mysite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PollsProject/mysite/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PollsProject/mysite/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qr_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/qr_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../TwitterProject/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/myapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../TwitterProject/mysite/myapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/000f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/000m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/001f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/002f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/003f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/003m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/004f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/005f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/006f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/006m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/007m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/009m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/avatars/010m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/332-b0e34467e170bd44.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/592-020e07b9384cb6de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/app/(empty)/preview/page-334386eadf40e82c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/app/layout-7025d5a24f170082.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/d2ae5688-8d95054cb8b94095.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/demo-theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/demo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/main-app-8c04a763fa223237.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/tabler.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/chunks/webpack-ac200b2d0f888355.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/css/5118708761d55826.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/css/demo.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/css/tabler-flags.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/css/tabler-payments.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/css/tabler-vendors.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwitterProject/mysite/static/css/tabler.min.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2WHn283aD3j5jKsMGKF7PG0ykAK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/rotekauv"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Internship\Python_Works\Django_Works\Seventeenth_Week\qr_reader\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f18d9c-ee23-45b4-87d4-5904bd2e1fd4" name="Changes" comment="" />
+      <created>1696398162453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696398162453</updated>
+    </task>
+    <servers />
+  </component>
+</project>
